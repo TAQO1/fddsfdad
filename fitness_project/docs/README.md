@@ -6,12 +6,19 @@ Proj structure
 
 FITNESS_PROJECT
 models          # ORM entitty classes
+
 models.py      # all database models like Member trainer and so on
+
 __init__.py    # package initialization
+
 /app             
+
 main.py        # Main app/cui
+
 docs            # documentation
+
 README.md      # This file
+
 ERD.pdf        # ER diagram and Mapping and normalization
 
 requirements.txt # Py dependencies
